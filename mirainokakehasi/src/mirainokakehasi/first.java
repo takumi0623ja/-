@@ -1,8 +1,7 @@
 package mirainokakehasi;
 
-public class first {
-
-		System.out.print("Hello Java");
-	
-
+public class First {
+    public static void main(String[] args) {
+        System.out.print("Hello Java");
+    }
 }

@@ -3,8 +3,7 @@ package mirainokakehasi;
 public class first {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-ｆ
+		System.out.print("Hell Java");
 	}
 
 }
